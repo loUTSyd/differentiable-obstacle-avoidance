@@ -6,10 +6,10 @@ This repository contains the Python implementation of the framework proposed in 
 - Data: [Data used for comparative simulation studies](Link)
 
 ## Navigation
-- [Requirements](Dependencies)
-- [Installation](Installation)
-- [Reproducing paper results](Paperexperiments)
-- [Citing this Repository](Citation)
+- [Dependencies](https://github.com/loUTSyd/differentiable-obstacle-avoidance?tab=readme-ov-file#dependencies)
+- [Installation](https://github.com/loUTSyd/differentiable-obstacle-avoidance?tab=readme-ov-file#installation)
+- [Reproducing paper results](https://github.com/loUTSyd/differentiable-obstacle-avoidance?tab=readme-ov-file#paper-experiments)
+- [Citing this Repository](https://github.com/loUTSyd/differentiable-obstacle-avoidance?tab=readme-ov-file#citation)
 
 ## Dependencies
 The dependencies in this project is generally handled by the pyproject.toml when the module is installed using pip. However, some libraries of interest which you may need to build the following libraries from source include:
